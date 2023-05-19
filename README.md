@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gibransilverio/gibrangomes/blob/main/assets/ezgif.com-resize.gif" alt="Seja bem-vindo ao GitHub de "Gibran Gomes"">
+  <img src="https://github.com/gibransilverio/gibransilverio/blob/main/ezgif.com-resize.gif" alt="Seja bem-vindo ao GitHub de "Gibran Gomes"">
 </p>
 
 - 💬 Engenheiro de dados Junior em busca de uma vaga
