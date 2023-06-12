@@ -4,6 +4,7 @@
 
 - 💬 Engenheiro de dados Junior em busca de uma vaga
 - 💬 Open to Work
+- 💬 2x Azure Microsoft Certified
 - 📫 E-mail para contato: [gibrangomes23@gmail.com](gibrangomes23@gmail.com)
 
 <h3 align="left">Linkedin:</h3>
