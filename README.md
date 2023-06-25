@@ -4,6 +4,7 @@
 
 - 💬 Engenheiro de dados Junior em busca de uma vaga
 - 💬 Open to Work
+- 💬 DBA Oracle Junior 
 - 💬 2x Azure Microsoft Certified (Az-900, DP-900, DP-203 Em preparação)
 - 📫 E-mail para contato: [gibrangomes23@gmail.com](gibrangomes23@gmail.com)
 
