@@ -2,7 +2,7 @@
   <img src="https://github.com/gibransilverio/gibransilverio/blob/main/ezgif.com-resize.gif" alt="Seja bem-vindo ao GitHub de "Gibran Gomes"">
 </p>
 
-- 💬 Engenheiro de dados em trasição na busca de uma vaga estágio/trainee
+- 💬 Engenheiro de dados em transição na busca de uma vaga estágio/trainee
 - 💬 Open to Work
 - 💬 DBA Oracle Junior 
 - 💬 2x Azure Microsoft Certified (Az-900, DP-900, DP-203 Em preparação)
