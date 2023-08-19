@@ -5,7 +5,7 @@
 - 💬 Engenheiro de dados em transição na busca de uma vaga estágio/trainee
 - 💬 Open to Work
 - 💬 DBA Oracle Junior 
-- 💬 2x Azure Microsoft Certified (Az-900, DP-900, DP-203 Em preparação)
+- 💬 2x Azure Microsoft Certified (Az-900, DP-900, DP-203 Em preparação, Az-104 Em preparação)
 - 📫 E-mail para contato: [gibrangomes23@gmail.com](gibrangomes23@gmail.com)
 
 <h3 align="left">Linkedin:</h3>
